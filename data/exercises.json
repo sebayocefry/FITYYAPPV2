@@ -1,0 +1,33 @@
+[
+
+  {
+    "slug": "barbell-bench-press",
+    "name": "Press de banca con barra",
+    "primaryMuscle": "CHEST",
+    "trackingMode": "WEIGHT_REPS",
+    "isActive": true
+  },
+  {
+    "slug": "inclined-push-ups",
+    "name": "Flexiones de brazos inclinadas",
+    "primaryMuscle": "CHEST",
+    "trackingMode": "REPS",
+    "isActive": true
+  },
+  {
+    "slug": "push-ups",
+    "name": "Flexiones de brazos",
+    "primaryMuscle": "CHEST",
+    "trackingMode": "REPS",
+    "isActive": true
+  },
+
+  {
+    "slug": "military-press",
+    "name": "Press militar de pie con barra",
+    "primaryMuscle": "SHOULDERS",
+    "trackingMode": "WEIGHT_REPS",
+    "isActive": true
+  }
+
+]
